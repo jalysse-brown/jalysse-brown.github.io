@@ -1,5 +1,6 @@
 ﻿body {
-    background-color:crimson;
+    background-color: crimson;
+    background-image: url('file:///C:\Users\brow2113\Pictures\buspicweb.jpg');
     
 }
 
@@ -8,7 +9,6 @@ h1 {
     display: block;
     margin: 5% 5%;
     text-align: center;
-    text-shadow: -2px 2px black;
     border-radius: 10px;
     margin: auto;
 }
@@ -16,16 +16,15 @@ h2 {
     background-color: white;
     display: block;
     text-align: center;
-    text-shadow: -2px 2px black;
-    border-radius: 7px;
+    border-radius: 5px;
     margin: auto;
 }nav 
  {
     display: inline;
     align-content: center;
 }
-.NavLinks {
-    text-decoration: double;
+.Links {
+    text-decoration: none;
     background-color: cyan;
     margin: 1%;
     color: white;
