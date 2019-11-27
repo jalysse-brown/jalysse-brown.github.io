@@ -1,9 +1,7 @@
 ﻿body {
     background-color: crimson;
-    background-image: url('file:///C:\Users\brow2113\Pictures\buspicweb.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-image: url(file:///C:\Users\brow2113\Pictures\buspicweb.jpg);
+   
 }
 
 h1 {
@@ -37,9 +35,20 @@ h2 {
     border-radius: 10px;
 }
 #AboutMe {
-    background-color: white;
+    background-color: crimson;
     display: block;
     margin: 5% 0%;
-    padding: 5px 30px;
-    text-shadow: .5px .5px white;
+    
+    padding:10px 5px;
+    
+    align-content: center;
+    text-align: center;
+    
+              
+}
+
+ul {
+    text-align: center;
+        font: bold 24px italic cursive;
+        color: black;
 }
