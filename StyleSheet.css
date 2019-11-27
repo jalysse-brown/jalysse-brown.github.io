@@ -1,7 +1,8 @@
 ﻿body {
     background-color: crimson;
     background-image: url(file:///C:\Users\brow2113\Pictures\buspicweb.jpg);
-   
+    background-image: url('file:///C:\Users\brow2113\Pictures\outpic.jpg');
+    background-image: url('file:///C:\Users\brow2113\Pictures\lookuppic.jpg');
 }
 
 h1 {
@@ -34,6 +35,12 @@ h2 {
     float: left;
     border-radius: 10px;
 }
+img {
+    border: dashed;
+    padding: 10px 5px;
+    margin: 5% 0%;
+    background-color: gold;
+}
 #AboutMe {
     background-color: crimson;
     display: block;
@@ -49,6 +56,11 @@ h2 {
 
 ul {
     text-align: center;
-        font: bold 24px italic cursive;
-        color: black;
+    font: 24px ;
+    color: black;
+    padding: 10px 5px;
+    margin: 5% 0%;
+    background-color: gold;
+    border:dashed;
+    font-style: italic;
 }
