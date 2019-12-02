@@ -2,7 +2,7 @@
     background-color: darkred;
     background-image: url(file:///C:\Users\brow2113\Pictures\buspicweb.jpg);
     background-image: url('file:///C:\Users\brow2113\Pictures\outpic.jpg');
-    background-image: url('file:///C:\Users\brow2113\Pictures\lookuppic.jpg');
+ 
 }
 
 h1 {
@@ -64,5 +64,25 @@ ul {
     margin: 5% 0%;
     background-color: salmon;
     border:dashed;
+    font-style: italic;
+}
+#MyProjects {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    padding: 10px 5px;
+    margin: 5% 0%;
+    background-color: salmon;
+    border: dashed;
+    font-style: italic;
+}
+#MySkills {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    padding: 10px 5px;
+    margin: 5% 0%;
+    background-color: salmon;
+    border: dashed;
     font-style: italic;
 }
